@@ -1,0 +1,11 @@
+ipykernel
+langgraph
+langchain
+langchain-openai
+openai
+tiktoken
+python-dotenv
+langchain_community
+wikipedia
+arxiv
+email-validator

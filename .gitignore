@@ -1,0 +1,50 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Data / models
+*.csv
+*.parquet
+*.db
+models/
+Older_code/
+
+# Logs
+*.log
+
+# Some files
+Concept10_LG.ipynb
+Concept11_LG.ipynb
+Concept12_LG.ipynb
+Concept13_LG.ipynb
+Concept14_LG.ipynb
+Concept15_LG.ipynb
+Concept16_LG.ipynb
+Concept17_LG.ipynb
+Concept18_LG.ipynb
+Concept19_LG.ipynb
+Concept20_LG.ipynb
+Concept21_LG.ipynb
+Concept22_LG.ipynb
+Concept23_LG.ipynb
+Concept24_LG.ipynb
+Concept25_LG.ipynb
+Concept26_LG.ipynb
+Concept5_LG.ipynb
+Concept6_LG.ipynb
+Concept7_LG.ipynb
+Concept8_LG.ipynb
+Concept9_LG.ipynb
